@@ -1,0 +1,796 @@
+{
+    "direct_flights": [
+        {
+            "airline_company_code": "ANA",
+            "arrival_date": "2023-06-09",
+            "arrival_time": "08:45",
+            "class": "Y",
+            "departure_date": "2023-06-09",
+            "departure_time": "07:40",
+            "flight_number": "NH 401",
+            "mile": "8000",
+            "operating_company": "All Nippon Airways",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "43",
+                "currency": "CAD"
+            }
+        },
+        {
+            "airline_company_code": "ANA",
+            "arrival_date": "2023-06-09",
+            "arrival_time": "15:20",
+            "class": "Y",
+            "departure_date": "2023-06-09",
+            "departure_time": "14:15",
+            "flight_number": "NH 405",
+            "mile": "8000",
+            "operating_company": "All Nippon Airways",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "43",
+                "currency": "CAD"
+            }
+        },
+        {
+            "airline_company_code": "ANA",
+            "arrival_date": "2023-06-09",
+            "arrival_time": "21:20",
+            "class": "Y",
+            "departure_date": "2023-06-09",
+            "departure_time": "20:15",
+            "flight_number": "NH 409",
+            "mile": "8000",
+            "operating_company": "All Nippon Airways",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "43",
+                "currency": "CAD"
+            }
+        }
+    ],
+    "transit_flights": [
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "08:05",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "07:00",
+                    "flight_number": "NH 13",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "09:55",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "08:30",
+                    "flight_number": "NH 1651",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "3",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "18:50",
+                    "class": "Y",
+                    "departure_airport_code": "NRT",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "17:30",
+                    "flight_number": "NH 2177",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "8",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "12:05",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "11:00",
+                    "flight_number": "NH 21",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "07:30",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "06:25",
+                    "flight_number": "NH 985",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "09:55",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "08:30",
+                    "flight_number": "NH 1651",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "11:05",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "10:00",
+                    "flight_number": "NH 19",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "10:10",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "09:00",
+                    "flight_number": "NH 17",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "7",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "16:05",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "15:00",
+                    "flight_number": "NH 31",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "51",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "08:55",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "07:40",
+                    "flight_number": "NH 93",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "KIX"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "51",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "15:15",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "13:50",
+                    "flight_number": "NH 991",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "KIX"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "46",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "07:50",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "06:40",
+                    "flight_number": "NH 411",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "UKB"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "8000",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "51",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "13:25",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:00",
+                    "flight_number": "NH 3823",
+                    "operating_company": "Star Flyer",
+                    "arrival_airport_code": "KIX"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "53",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "16:45",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "15:00",
+                    "flight_number": "NH 645",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "KMJ"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "18:30",
+                    "class": "Y",
+                    "departure_airport_code": "KMJ",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "17:25",
+                    "flight_number": "NH 526",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "09:35",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "07:50",
+                    "flight_number": "NH 603",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "KMI"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "12:25",
+                    "class": "Y",
+                    "departure_airport_code": "KMI",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "11:20",
+                    "flight_number": "NH 506",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "8",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "08:45",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "07:15",
+                    "flight_number": "NH 583",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "MYJ"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "10:35",
+                    "class": "Y",
+                    "departure_airport_code": "MYJ",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "09:45",
+                    "flight_number": "NH 1636",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "08:45",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "07:15",
+                    "flight_number": "NH 583",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "MYJ"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "12:15",
+                    "class": "Y",
+                    "departure_airport_code": "MYJ",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "11:25",
+                    "flight_number": "NH 1638",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:20",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:50",
+                    "flight_number": "NH 1653",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "7",
+            "tax": {
+                "amount": "52",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "15:30",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "13:40",
+                    "flight_number": "NH 255",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "FUK"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "17:30",
+                    "class": "Y",
+                    "departure_airport_code": "FUK",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "16:15",
+                    "flight_number": "NH 426",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "7",
+            "tax": {
+                "amount": "52",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "14:35",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:40",
+                    "flight_number": "NH 253",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "FUK"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "17:30",
+                    "class": "Y",
+                    "departure_airport_code": "FUK",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "16:15",
+                    "flight_number": "NH 426",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "13:30",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:00",
+                    "flight_number": "NH 589",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "MYJ"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "16:20",
+                    "class": "Y",
+                    "departure_airport_code": "MYJ",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "15:30",
+                    "flight_number": "NH 1644",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        },
+        {
+            "mile": "12500",
+            "seat_status": "Av",
+            "tax": {
+                "amount": "50",
+                "currency": "CAD"
+            },
+            "transit": [
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "13:30",
+                    "class": "Y",
+                    "departure_airport_code": "HND",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "12:00",
+                    "flight_number": "NH 589",
+                    "operating_company": "All Nippon Airways",
+                    "arrival_airport_code": "MYJ"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "15:00",
+                    "class": "Y",
+                    "departure_airport_code": "MYJ",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "14:10",
+                    "flight_number": "NH 1642",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "ITM"
+                },
+                {
+                    "airline_company_code": "ANA",
+                    "arrival_date": "2023-06-09",
+                    "arrival_time": "20:45",
+                    "class": "Y",
+                    "departure_airport_code": "ITM",
+                    "departure_date": "2023-06-09",
+                    "departure_time": "19:15",
+                    "flight_number": "NH 1655",
+                    "operating_company": "Ana Wings",
+                    "arrival_airport_code": "AXT"
+                }
+            ]
+        }
+    ]
+}
